@@ -1,0 +1,1 @@
+In the geo.ipynb file, through the h3, folium, osmsx libraries, I used polygons and also applied the hexagon form. You can also add the coordinates of cafes and different stores here to understand which hexagons have more stores or where there are not enough and most likely you can open a business
